@@ -1,7 +1,7 @@
 import { hookSecret } from "@/lib/env.api";
-import { revalidateTag } from "next/cache";
-import { type NextRequest, NextResponse } from "next/server";
 import { parseBody } from "next-sanity/webhook";
+import { revalidateTag } from "next/cache";
+import { NextResponse, type NextRequest } from "next/server";
 
 export async function POST(req: NextRequest) {
   try {
@@ -30,3 +30,5 @@ export async function POST(req: NextRequest) {
     return new Response(error.message, { status: 500 });
   }
 }
+
+export const runtime = 'edge';

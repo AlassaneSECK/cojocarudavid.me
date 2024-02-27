@@ -214,3 +214,5 @@ export default async function Post({ params }: Props) {
     </main>
   );
 }
+
+export const runtime = 'edge';
