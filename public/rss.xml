@@ -2,31 +2,31 @@
     <channel>
         <title><![CDATA[David Cojocaru's Blog - Personal blog by David Cojocaru]]></title>
         <description><![CDATA[Personal blog by David Cojocaru. I write about web development, programming, and technology.]]></description>
-        <link>https://cojocarudavid.me</link>
+        <link>http://localhost:3000</link>
         <image>
-            <url>https://cojocarudavid.me/logo.png</url>
+            <url>http://localhost:3000/logo.png</url>
             <title>David Cojocaru&apos;s Blog - Personal blog by David Cojocaru</title>
-            <link>https://cojocarudavid.me</link>
+            <link>http://localhost:3000</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Feb 2024 12:49:18 GMT</lastBuildDate>
-        <atom:link href="https://cojocarudavid.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Feb 2024 12:49:18 GMT</pubDate>
+        <lastBuildDate>Tue, 27 Feb 2024 22:36:53 GMT</lastBuildDate>
+        <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 27 Feb 2024 22:36:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Implement dark mode in your Astro project with Tailwind CSS]]></title>
             <description><![CDATA[Dark mode in web design has several benefits, including improved accessibility, readability, and reduced eye strain. It is becoming increasingly common to design a dark version of websites due to its popularity and positive impact on users. To implement dark mode in an Astro project using Tailwind CSS, one can follow a tutorial video that explains the process in detail.]]></description>
-            <link>https://cojocarudavid.me/blog/implement-dark-mode-in-your-astro-project-with-tailwind-css</link>
-            <guid isPermaLink="false">https://cojocarudavid.me/blog/implement-dark-mode-in-your-astro-project-with-tailwind-css</guid>
+            <link>http://localhost:3000/blog/implement-dark-mode-in-your-astro-project-with-tailwind-css</link>
+            <guid isPermaLink="false">http://localhost:3000/blog/implement-dark-mode-in-your-astro-project-with-tailwind-css</guid>
             <pubDate>Wed, 16 Aug 2023 15:00:00 GMT</pubDate>
             <media:content url="[object Object]"/>
         </item>
         <item>
             <title><![CDATA[The Rise of Generative AI: Advancements, Adoption, and Future Prospects]]></title>
             <description><![CDATA[Generative AI has gained significant attention across industries, with recent developments highlighting its growing prominence. One notable advancement is OpenAI's ChatGPT, which has quickly amassed 100 million monthly users, making it one of the fastest-growing internet applications in history.]]></description>
-            <link>https://cojocarudavid.me/blog/the-rise-of-generative-ai-advancements-adoption-and-future-prospects</link>
-            <guid isPermaLink="false">https://cojocarudavid.me/blog/the-rise-of-generative-ai-advancements-adoption-and-future-prospects</guid>
+            <link>http://localhost:3000/blog/the-rise-of-generative-ai-advancements-adoption-and-future-prospects</link>
+            <guid isPermaLink="false">http://localhost:3000/blog/the-rise-of-generative-ai-advancements-adoption-and-future-prospects</guid>
             <pubDate>Sat, 27 Jan 2024 10:25:00 GMT</pubDate>
             <media:content url="[object Object]"/>
         </item>
