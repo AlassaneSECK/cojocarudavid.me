@@ -2,7 +2,7 @@ import { sanityFetch } from "@/lib/sanity.client";
 import { postsQuery } from "@/lib/sanity.query";
 import type { PostType } from "@/types";
  
-export default async function sitemap({ res }) {
+export default async function sitemap({ res }: { res: Response }) {
     const site_url =
       process.env.NODE_ENV === "production"
         ? "https://cojocarudavid.me"
@@ -17,3 +17,5 @@ export default async function sitemap({ res }) {
     priority: 0.8,
   }))
 }
+
+ 
