@@ -8,4 +8,4 @@ export default function Studio() {
   return <NextStudio config={config} />;
 }
 
-export const runtime = "server";
+export const runtime = "edge";
