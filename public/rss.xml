@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[David Cojocaru's Blog - Personal blog by David Cojocaru]]></title>
+        <description><![CDATA[Personal blog by David Cojocaru. I write about web development, programming, and technology.]]></description>
+        <link>http://localhost:3000</link>
+        <image>
+            <url>http://localhost:3000/logo.png</url>
+            <title>David Cojocaru&apos;s Blog - Personal blog by David Cojocaru</title>
+            <link>http://localhost:3000</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 25 Feb 2024 14:08:27 GMT</lastBuildDate>
+        <atom:link href="http://localhost:3000/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 25 Feb 2024 14:08:27 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Implement dark mode in your Astro project with Tailwind CSS]]></title>
+            <description><![CDATA[Dark mode in web design has several benefits, including improved accessibility, readability, and reduced eye strain. It is becoming increasingly common to design a dark version of websites due to its popularity and positive impact on users. To implement dark mode in an Astro project using Tailwind CSS, one can follow a tutorial video that explains the process in detail.]]></description>
+            <link>http://localhost:3000/blog/implement-dark-mode-in-your-astro-project-with-tailwind-css</link>
+            <guid isPermaLink="false">http://localhost:3000/blog/implement-dark-mode-in-your-astro-project-with-tailwind-css</guid>
+            <pubDate>Wed, 16 Aug 2023 15:00:00 GMT</pubDate>
+            <media:content url="[object Object]"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rise of Generative AI: Advancements, Adoption, and Future Prospects]]></title>
+            <description><![CDATA[Generative AI has gained significant attention across industries, with recent developments highlighting its growing prominence. One notable advancement is OpenAI's ChatGPT, which has quickly amassed 100 million monthly users, making it one of the fastest-growing internet applications in history.]]></description>
+            <link>http://localhost:3000/blog/the-rise-of-generative-ai-advancements-adoption-and-future-prospects</link>
+            <guid isPermaLink="false">http://localhost:3000/blog/the-rise-of-generative-ai-advancements-adoption-and-future-prospects</guid>
+            <pubDate>Sat, 27 Jan 2024 10:25:00 GMT</pubDate>
+            <media:content url="[object Object]"/>
+        </item>
+    </channel>
+</rss>
