@@ -1,27 +1,28 @@
 [
   {
-    "name": "cojocaru-david",
+    "name": "projet qualité de l'eau",
     "stars": 33,
-    "url": "https://github.com/cojocaru-david/cojocarudavid.me",
-    "description": "Blazing fast personal website built with Astro.js and styled with Tailwind CSS.",
+    "url": "https://github.com/AlassaneSECK/SEBA_App_V4",
+    "description": "Ce projet a été réalisé en deuxième année de BTS SNIR. Il consistait à réaliser une application Android et logiciel bureau. L'application permet de faire des relevés sur la qualité de l'eau et le logiciel de récupérer ces relevés et de traiter l'information reçu. Mon role dans ce projet était principalement de faire l'application Android",
     "languages": [
-      "Astro",
-      "TypeScript",
-      "JavaScript",
-      "CSS"
+      "Kotlin (Android)",
+      "Sqlite",
+      "C# (Windows Form)",
+      "MySql"
     ],
-    "role": "author"
+    "role": "maintainer"
   },
   {
-    "name": "david-dark-code",
+    "name": "projet de valorisation des cryptoportiques",
     "stars": 12,
-    "url": "https://github.com/cojocaru-david/david-dark-code",
-    "website": "https://marketplace.visualstudio.com/items?itemName=cojocaru-david.david-dark-code",
-    "description": "David Dark is a dark theme for VS Code. It is based on the github theme and the default dark theme. It is designed to be easy on the eyes and to be used for long periods of time.",
+    "url": "https://etulab.univ-amu.fr/sae-s5.a.01-2024/sae-s5.a.01-2024-sujet01",
+    "description": "Ce projet est actuellement en cours de réalisation. Il a été demandé par le patrimoine de la ville d'Arles et l'association Arles créative. Il consiste à faire une application web cross-platform dans lequel on peut visiter les cryptoportiques soit en normal soit avec un casque de réalité virtuel. Il y aussi la possiblité de faire la visite à plusieurs.",
     "languages": [
+      "Threejs (Typescript)",
       "NodeJS",
-      "JSON"
+      "Python",
+      "Bash"
     ],
-    "role": "author"
+    "role": "maintainer"
   }
 ]

@@ -9,46 +9,29 @@
       "logo": "mdi:language-javascript"
     },
     {
+      "text": "TypeScript",
+      "logo": "mdi:language-typescript"
+    },
+    {
       "text": "CSS",
       "logo": "mdi:language-css3"
     },
     {
       "text": "PHP",
       "logo": "mdi:language-php"
-    },
-    {
-      "text": "Astro",
-      "logo": "simple-icons:astro"
-    },
-    {
-      "text": "Tailwind CSS",
-      "logo": "mdi:tailwind"
     }
   ],
   "Development Tools": [
     {
       "text": "Visual Studio Code",
       "logo": "mdi:visual-studio-code"
-    },
+    },  
     {
       "text": "Git",
       "logo": "mdi:git"
     }
   ],
-  "Hosting and Cloud Services": [
-    {
-      "text": "DigitalOcean",
-      "logo": "mdi:digital-ocean"
-    },
-    {
-      "text": "Cloudflare",
-      "logo": "cib:cloudflare"
-    },
-    {
-      "text": "Netlify",
-      "logo": "cib:netlify"
-    }
-  ],
+
   "Operating Systems": [
     {
       "text": "Windows",
@@ -57,21 +40,38 @@
     {
       "text": "Ubuntu",
       "logo": "mdi:ubuntu"
-    }
+    },
+    {
+      "text": "Debian",
+      "logo": "mdi:debian"
+    },
+    {
+      "text": "Kali Linux",
+      "logo": "mdi:linux"
+    }    
   ],
   "Other Programming Languages and Technologies": [
     {
-      "text": "Lua",
-      "logo": "mdi:language-lua"
+      "text": "Java",
+      "logo": "mdi:language-java"
     },
     {
-      "text": "Golang",
-      "logo": "mdi:language-go"
+      "text": "Kotlin",
+      "logo": "mdi:language-kotlin"
+    },
+    {
+      "text": "C++",
+      "logo": "mdi:language-cpp"
+    },
+    {
+      "text": "C#",
+      "logo": "mdi:language-c#"
     },
     {
       "text": "Node.js",
       "logo": "mdi:nodejs"
     }
+    
   ],
   "Web Servers": [
     {
@@ -79,8 +79,8 @@
       "logo": "cib:apache"
     },
     {
-      "text": "Nginx",
-      "logo": "cib:nginx"
+      "text": "Python",
+      "logo": "mdi:language-python"
     }
   ],
   "Databases": [
@@ -94,14 +94,6 @@
     }
   ],
   "Other Software": [
-    {
-      "text": "Discord",
-      "logo": "mdi:discord"
-    },
-    {
-      "text": "Spotify",
-      "logo": "mdi:spotify"
-    },
     {
       "text": "Visual Studio",
       "logo": "mdi:visual-studio"
