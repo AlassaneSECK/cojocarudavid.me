@@ -8,7 +8,7 @@ We welcome contributions to improve this project! Please follow these guidelines
 2. Clone your fork:
 
    ```sh
-   git clone https://github.com/your-username/cojocarudavid.me.git
+   git clone https://github.com/AlassaneSECK/cojocarudavid.me.git
    ```
 
 3. Create a new branch for your feature or bug fix:
