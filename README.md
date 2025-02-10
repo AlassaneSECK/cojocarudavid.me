@@ -1,17 +1,13 @@
-# cojocarudavid.me
+# alassane seck
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/cojocaru-david/cojocarudavid.me/ci.yml)
 ![License](https://img.shields.io/github/license/cojocaru-david/cojocarudavid.me)
 ![Version](https://img.shields.io/github/package-json/v/cojocaru-david/cojocarudavid.me)
 ![Stars](https://img.shields.io/github/stars/cojocaru-david/cojocarudavid.me?style=social)
 
-👋 Hi, I'm David, a 16yo coder from Romania 🚀 Crafting web wonders with JavaScript, PHP, and React. Linux lover automating tasks with Bash.
+👋 Bonjour je suis Alassane je suis étudiant en BUT informatique à l'iut Aix Marseille site d'Arles.
 
 ## 🚀 Project Overview
-
-cojocarudavid.me is a blazing fast personal website built with Astro.js and styled with Tailwind CSS. It showcases my projects, blog posts, and more.
-
-![Website Screenshot](.github/smartmockups_m1jn1m6x.jpg)
 
 ## 🌟 Features
 
@@ -80,19 +76,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Contact
 
-Feel free to reach out to me at [contact@cojocarudavid.me](mailto:contact@cojocarudavid.me).
+Feel free to reach out to me at [alassane](mailto:aseck9719@gmail.com).
 
 ## 🚀 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/cojocaru-david)
-- [Blog](https://cojocarudavid.me/blog)
+- [LinkedIn](https://www.linkedin.com/in/seck-alassane)
 
 ## 🌟 Show Your Support
 
-Give a ⭐️ if you like this project!
-
-## 🙏 Acknowledgments
-
-- [Astro.js](https://astro.build/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [GitHub Actions](https://github.com/features/actions)
